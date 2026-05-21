@@ -33,6 +33,8 @@ https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoC
 https://komarev.com/ghpvc/?username=20d41a04b9&style=for-the-badge&color=00ffaa
 
 Dev Quote
+
+https://linkedin.com/in/mandadi-akshitha
                                             "Building solutions today for the challenges of tomorrow."
                                                              — Akshitha Reddy
 
