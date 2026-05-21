@@ -15,7 +15,7 @@ MANDADI AKSHITHA REDDY
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=akshithareddy4&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+"Building solutions today for the challenges of tomorrow." - AKSHITHA REDDY!😉
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=akshithareddy4&limit=5&theme=dark&combine_all_yearly_contributions=true)
