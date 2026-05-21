@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1200&pause=500&color=38BDF8&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Status%3A+ONLINE" />
 </p>
 
-# 💫 About Me:
+# 🖥️ > decrypt --user-profile AKSHITHA_REDDY:
 💻 I’m currently working on Java Full Stack Development projects and responsive web applications.<br>🤝I’m looking to collaborate on Web Development, Java, and Machine Learning projects.<br>🛠️ I’m looking for help with Advanced React.js and real-time full stack applications.<br>🌱 I’m currently learning Java Full Stack Development, React.js, and SQL.<br>💬 Ask me about Full stack Java, Python, and Web Development.<br> Fun fact: I enjoy building tech solutions and exploring emerging technologies.
 
 
