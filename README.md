@@ -35,6 +35,10 @@ https://komarev.com/ghpvc/?username=20d41a04b9&style=for-the-badge&color=00ffaa
 Dev Quote
 
 https://linkedin.com/in/mandadi-akshitha
+
+<a href="mailto:reddyakshitha373@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
                                             "Building solutions today for the challenges of tomorrow."
                                                              — Akshitha Reddy
 
