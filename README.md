@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=1000&color=00E6A7&center=true&vCenter=true&width=800&lines=MANDADI+AKSHITHA REDDY" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=1000&color=00E6A7&center=true&vCenter=true&width=800&lines=MANDADI AKSHITHA REDDY" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1200&pause=500&color=00FFCC&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;React+Developer;Machine+Learning+Enthusiast;Status%3A+ONLINE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1200&pause=500&color=00FFCC&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Status%3A+ONLINE" />
 </p>
 
 # 💫 About Me:
