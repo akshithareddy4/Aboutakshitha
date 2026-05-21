@@ -16,6 +16,8 @@ MANDADI AKSHITHA REDDY
 
 # 🌐 > deploy_social_uplink:
 
+<p align="center">
+
 <a href="https://linkedin.com/in/mandadi-akshitha">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -29,6 +31,8 @@ MANDADI AKSHITHA REDDY
 <a href="https://github.com/20d41a04b9">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+</p>
                                             "Building solutions today for the challenges of tomorrow."
                                                              — Akshitha Reddy
 
