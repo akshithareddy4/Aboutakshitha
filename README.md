@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=1800&pause=1000&color=00E6A7&center=true&vCenter=true&width=700&lines=MANDADI+AKSHITHA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=1800&pause=1000&color=FF4D6D&center=true&vCenter=true&width=700&lines=MANDADI+AKSHITHA+REDDY" />
 </p>
 
 <p align="center">
