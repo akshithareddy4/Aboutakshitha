@@ -14,7 +14,8 @@ MANDADI AKSHITHA REDDY
 ![](https://streak-stats.demolab.com/?user=akshithareddy4&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=akshithareddy4&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-🌐 > deploy_social_uplink
+#🌐 > deploy_social_uplink:
+
 <a href="https://linkedin.com/in/mandadi-akshitha">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
