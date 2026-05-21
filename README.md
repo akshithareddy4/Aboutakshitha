@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=1000&color=00E6A7&center=true&vCenter=true&width=800&lines=MANDADI AKSHITHA REDDY" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=1800&pause=1000&color=00E6A7&center=true&vCenter=true&width=700&lines=MANDADI+AKSHITHA" />
 </p>
 
 <p align="center">
