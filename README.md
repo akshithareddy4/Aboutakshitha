@@ -1,4 +1,9 @@
-MANDADI AKSHITHA REDDY
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=MANDADI+AKSHITHA" />
+</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=1300&pause=500&color=00FFCC&center=true&vCenter=true&width=700&lines=Initializing+system.mainframe...;Loading+Full+Stack+Java...;Identity%3A+Akshitha+Reddy;Role%3A+Software+Engineer;Status%3A+ONLINE)](https://git.io/typing-svg)
+
 # 💫 About Me:
 💻 I’m currently working on Java Full Stack Development projects and responsive web applications.<br>🤝I’m looking to collaborate on Web Development, Java, and Machine Learning projects.<br>🛠️ I’m looking for help with Advanced React.js and real-time full stack applications.<br>🌱 I’m currently learning Java Full Stack Development, React.js, and SQL.<br>💬 Ask me about Full stack Java, Python, and Web Development.<br> Fun fact: I enjoy building tech solutions and exploring emerging technologies.
 
